@@ -1,0 +1,10 @@
+* clos-fixtures
+
+CLOS fixtures.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eudoxia0/clos-fixtures.git   |
+| commit  | a5e4277  |
+| systems | clos-fixtures |
+|---------+-------------------------------------------|
+
